@@ -2,46 +2,46 @@
 layout: page
 title: Übungsbuch Analysis I
 permalink: /study-books/analysis-i/
-description: Exercises with hints, model solutions and practice exams for Analysis I
+description: Übungsaufgaben mit Lösungshinweisen, Musterlösungen und Übungsklausuren zur Analysis I
 nav: false
 ---
 
-<img src="{{ '/assets/img/publication_preview/analysis1.jpg' | relative_url }}" alt="Cover of Übungsbuch Analysis I" style="float: right; width: 220px; max-width: 40%; margin: 0 0 1rem 1.5rem;" class="rounded z-depth-1">
+<img src="{{ '/assets/img/publication_preview/analysis1.jpg' | relative_url }}" alt="Cover des Übungsbuchs Analysis I" style="float: right; width: 220px; max-width: 40%; margin: 0 0 1rem 1.5rem;" class="rounded z-depth-1">
 
-[Übungsbuch Analysis I](https://link.springer.com/book/10.1007/978-3-662-64569-7) offers a comprehensive collection of almost 500 exercises, designed to help students work on their exercise sheets, review the lecture material and prepare for exams. The book is written in German and is divided into four parts: exercises, hints, model solutions and practice exams.
+Das [Übungsbuch Analysis I](https://link.springer.com/book/10.1007/978-3-662-64569-7) enthält fast 500 Teilaufgaben, die Studierende beim Bearbeiten von Übungsblättern, beim Nacharbeiten der Vorlesung und bei der Prüfungsvorbereitung unterstützen. Das Buch besteht aus vier Teilen: Übungsaufgaben, Lösungshinweise, Musterlösungen und Übungsklausuren.
 
-## How the book works
+## So funktioniert das Buch
 
-Imagine you are attending an Analysis I lecture on the convergence of series, or you have an exercise sheet on this topic due. To deepen your understanding and practice convergence tests, you choose Exercise 57 (a):
+Angenommen, in Ihrer Analysis-I-Vorlesung geht es gerade um die Konvergenz von Reihen, oder Sie müssen ein Übungsblatt zu diesem Thema abgeben. Um das Prüfen auf Konvergenz zu üben, nehmen Sie sich Aufgabe 57 (a) vor:
 
-> **Exercise 57.** Determine whether the series $$\sum_{n=0}^{\infty} \left(\frac{1}{7}\right)^n$$ converges.
+> **Aufgabe 57.** Untersuchen Sie die Reihe $$\sum_{n=0}^{\infty} \left(\frac{1}{7}\right)^n$$ auf Konvergenz.
 
-You look up all the convergence tests from the lecture, but you are not sure which one to use. So you turn to the hint for Exercise 57:
+Sie schlagen die Konvergenzkriterien aus der Vorlesung nach, wissen aber nicht recht, welches hier passt. Also werfen Sie einen Blick in den Lösungshinweis:
 
-> **Hint for Exercise 57.** The series converges by the [root test](https://en.wikipedia.org/wiki/Root_test) or the [ratio test](https://en.wikipedia.org/wiki/Ratio_test). Set $$x_n = (1/7)^n$$ for $$n \in \mathbb{N}_0$$ and observe that $$\sqrt[n]{|x_n|} = 1/7$$ and $$|x_{n+1} / x_n| = 1/7$$.
+> **Lösungshinweis zu Aufgabe 57.** Die Reihe konvergiert nach dem [Wurzelkriterium](https://de.wikipedia.org/wiki/Wurzelkriterium) oder dem [Quotientenkriterium](https://de.wikipedia.org/wiki/Quotientenkriterium). Setzen Sie dazu $$x_n = (1/7)^n$$ für $$n \in \mathbb{N}_0$$ und überlegen Sie sich, dass $$\sqrt[n]{|x_n|} = 1/7$$ und $$|x_{n+1} / x_n| = 1/7$$ gilt.
 
-With this hint, you can solve the exercise on your own. If you still have doubts, you can compare your work with the model solution in the book:
+Mit diesem Anstoß können Sie die Aufgabe selbstständig lösen. Wenn Sie sich bei Ihrem Ergebnis noch unsicher sind, vergleichen Sie es mit der Musterlösung im Buch:
 
-> **Solution to Exercise 57.** The series converges by the root test or the ratio test. We set $$x_n = (1/7)^n$$ for $$n \in \mathbb{N}_0$$. Clearly $$\sqrt[n]{|x_n|} = 1/7$$, so
+> **Lösung zu Aufgabe 57.** Die Reihe konvergiert nach dem Wurzel- oder dem Quotientenkriterium. Wir setzen dazu $$x_n = (1/7)^n$$ für $$n \in \mathbb{N}_0$$. Offensichtlich gilt $$\sqrt[n]{|x_n|} = 1/7$$, womit wir
 >
-> $$\limsup_{n \to \infty} \sqrt[n]{|x_n|} = \limsup_{n \to \infty} \frac{1}{7} = \frac{1}{7}.$$
+> $$\limsup_{n \to \infty} \sqrt[n]{|x_n|} = \limsup_{n \to \infty} \frac{1}{7} = \frac{1}{7}$$
 >
-> Since this limit superior is less than 1, the series converges by the root test. Alternatively, since $$|x_{n+1} / x_n| = 1/7$$, we directly obtain
+> erhalten. Da dieser Limes superior kleiner als 1 ist, konvergiert die Reihe nach dem Wurzelkriterium. Alternativ folgt wegen $$|x_{n+1} / x_n| = 1/7$$ direkt
 >
 > $$\limsup_{n \to \infty} \left| \frac{x_{n+1}}{x_n} \right| = \frac{1}{7},$$
 >
-> so the series also converges by the ratio test.
+> sodass die Reihe auch nach dem Quotientenkriterium konvergiert.
 
-Comparing your work with the model solution lets you confirm that your answer is correct, or see where it needs adjusting.
+So sehen Sie auf einen Blick, ob Ihre Lösung stimmt oder an welcher Stelle Sie noch nachbessern sollten.
 
-## Practice exams
+## Übungsklausuren
 
-At many universities, past exams are available without solutions. That is why this book also contains five practice exams with full solutions. They vary in topics and length, so you can choose the one that best fits your preparation. One of them, for example, has a time limit of 120 minutes, allows no aids such as programmable calculators, and awards up to 55 points. A typical exam problem might read:
+An vielen Universitäten gibt es Altklausuren, aber selten die passenden Lösungen dazu. Deshalb enthält das Buch zusätzlich fünf Übungsklausuren mit vollständigen Lösungen. Sie unterscheiden sich in Themen und Umfang, sodass Sie die Klausur wählen können, die am besten zu Ihrer Vorbereitung passt. Eine davon hat zum Beispiel eine Bearbeitungszeit von 120 Minuten, erlaubt keine Hilfsmittel wie programmierbare Taschenrechner, und es sind maximal 55 Punkte erreichbar. Eine typische Klausuraufgabe sieht so aus:
 
-> **Problem 1 (8 points).** Let $$x \in \mathbb{R} \setminus \{1\}$$. Prove by induction that for all $$n \in \mathbb{N}$$
+> **Aufgabe 1 (8 Punkte).** Sei $$x \in \mathbb{R} \setminus \{1\}$$ beliebig. Beweisen Sie mittels vollständiger Induktion für alle $$n \in \mathbb{N}$$ die Identität
 >
 > $$\sum_{\nu = 0}^{n} \nu x^{\nu - 1} = \frac{1 - x^{n+1}}{(1-x)^2} - \frac{(n+1)x^n}{1-x}.$$
 
-After working through an exam, you can compare your answers with the model solutions in the book. These also show how points are awarded for the individual steps, so even if you only partially solve a problem, you get a realistic idea of how many points you would have earned in a real exam.
+Nach der Bearbeitung können Sie Ihre Antworten mit den Musterlösungen vergleichen. Diese zeigen auch, wie die Punkte auf die einzelnen Lösungsschritte verteilt werden. Selbst wenn Sie eine Aufgabe nur teilweise lösen, bekommen Sie so ein realistisches Gefühl dafür, wie viele Punkte Sie in einer echten Klausur erreicht hätten.
 
-[Back to all study books]({{ '/projects/' | relative_url }})
+[Zurück zu allen Übungsbüchern]({{ '/projects/' | relative_url }})

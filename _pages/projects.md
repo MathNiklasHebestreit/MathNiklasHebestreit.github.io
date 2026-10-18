@@ -22,9 +22,12 @@ Usually there are two options: give up, or look up the solution. Afterwards, man
 </div>
 
 <style>
-  .publications .links a[href*="/study-books/"] {
-    background-color: var(--global-theme-color);
-    border-color: var(--global-theme-color);
+  .publications ol.bibliography li .links a.btn[href*="/study-books/"] {
+    background-color: var(--global-theme-color) !important;
+    border-color: var(--global-theme-color) !important;
     color: #fff !important;
+  }
+  .publications ol.bibliography li .links a.btn[href*="/study-books/"]:hover {
+    opacity: 0.85;
   }
 </style>

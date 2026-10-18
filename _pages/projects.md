@@ -26,6 +26,11 @@ Usually there are two options: give up, or look up the solution. Afterwards, man
     background-color: var(--global-theme-color) !important;
     border-color: var(--global-theme-color) !important;
     color: #fff !important;
+    font-size: 0;
+  }
+  .publications ol.bibliography li .links a.btn[href*="/study-books/"]::after {
+    content: "More information";
+    font-size: 0.75rem;
   }
   .publications ol.bibliography li .links a.btn[href*="/study-books/"]:hover {
     opacity: 0.85;

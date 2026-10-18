@@ -18,17 +18,17 @@ Angenommen, in Ihrer Analysis-I-Vorlesung geht es gerade um die Konvergenz von R
 
 Sie schlagen die Konvergenzkriterien aus der Vorlesung nach, wissen aber nicht recht, welches hier passt. Also werfen Sie einen Blick in den Lösungshinweis:
 
-> **Lösungshinweis zu Aufgabe 57.** Die Reihe konvergiert nach dem [Wurzelkriterium](https://de.wikipedia.org/wiki/Wurzelkriterium) oder dem [Quotientenkriterium](https://de.wikipedia.org/wiki/Quotientenkriterium). Setzen Sie dazu $$x_n = (1/7)^n$$ für $$n \in \mathbb{N}_0$$ und überlegen Sie sich, dass $$\sqrt[n]{|x_n|} = 1/7$$ und $$|x_{n+1} / x_n| = 1/7$$ gilt.
+> **Lösungshinweis zu Aufgabe 57.** Die Reihe konvergiert nach dem [Wurzelkriterium](https://de.wikipedia.org/wiki/Wurzelkriterium) oder dem [Quotientenkriterium](https://de.wikipedia.org/wiki/Quotientenkriterium). Setzen Sie dazu $$x_n = (1/7)^n$$ für $$n \in \mathbb{N}_0$$ und überlegen Sie sich, dass $$\sqrt[n]{\lvert x_n \rvert} = 1/7$$ und $$\lvert x_{n+1} / x_n \rvert = 1/7$$ gilt.
 
 Mit diesem Anstoß können Sie die Aufgabe selbstständig lösen. Wenn Sie sich bei Ihrem Ergebnis noch unsicher sind, vergleichen Sie es mit der Musterlösung im Buch:
 
-> **Lösung zu Aufgabe 57.** Die Reihe konvergiert nach dem Wurzel- oder dem Quotientenkriterium. Wir setzen dazu $$x_n = (1/7)^n$$ für $$n \in \mathbb{N}_0$$. Offensichtlich gilt $$\sqrt[n]{|x_n|} = 1/7$$, womit wir
+> **Lösung zu Aufgabe 57.** Die Reihe konvergiert nach dem Wurzel- oder dem Quotientenkriterium. Wir setzen dazu $$x_n = (1/7)^n$$ für $$n \in \mathbb{N}_0$$. Offensichtlich gilt $$\sqrt[n]{\lvert x_n \rvert} = 1/7$$, womit wir
 >
-> $$\limsup_{n \to \infty} \sqrt[n]{|x_n|} = \limsup_{n \to \infty} \frac{1}{7} = \frac{1}{7}$$
+> $$\limsup_{n \to \infty} \sqrt[n]{\lvert x_n \rvert} = \limsup_{n \to \infty} \frac{1}{7} = \frac{1}{7}$$
 >
-> erhalten. Da dieser Limes superior kleiner als 1 ist, konvergiert die Reihe nach dem Wurzelkriterium. Alternativ folgt wegen $$|x_{n+1} / x_n| = 1/7$$ direkt
+> erhalten. Da dieser Limes superior kleiner als 1 ist, konvergiert die Reihe nach dem Wurzelkriterium. Alternativ folgt wegen $$\lvert x_{n+1} / x_n \rvert = 1/7$$ direkt
 >
-> $$\limsup_{n \to \infty} \left| \frac{x_{n+1}}{x_n} \right| = \frac{1}{7},$$
+> $$\limsup_{n \to \infty} \left\lvert \frac{x_{n+1}}{x_n} \right\rvert = \frac{1}{7},$$
 >
 > sodass die Reihe auch nach dem Quotientenkriterium konvergiert.
 

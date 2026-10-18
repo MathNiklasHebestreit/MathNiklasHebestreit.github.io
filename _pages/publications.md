@@ -7,14 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-## Books
-
-<div class="publications">
-{% bibliography --file books --query @book[year<=2026] %}
-</div>
-
-## Research articles
-
 <!-- _pages/publications.md -->
 
 {% include bib_search.liquid %}

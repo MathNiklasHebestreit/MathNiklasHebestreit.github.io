@@ -20,3 +20,11 @@ Usually there are two options: give up, or look up the solution. Afterwards, man
 <div class="publications">
 {% bibliography --file books %}
 </div>
+
+<style>
+  .publications .links a[href*="/study-books/"] {
+    background-color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+    color: #fff !important;
+  }
+</style>

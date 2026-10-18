@@ -58,7 +58,7 @@ Indem Sie die Übungsaufgaben lösen, erarbeiten Sie sich selbstständig Antwort
 
 **Produktmaße, Satz von Fubini und Transformationssatz.** Zunächst geht es um endliche Produktmaße. So wird etwa gezeigt, dass das Produktmaß $$\beta^d \otimes \beta^k$$ zweier Borel-Lebesgue-Maße mit $$\beta^{d+k}$$ übereinstimmt. Außerdem werden das Prinzip von Cavalieri sowie die Sätze von Fubini und Tonelli genutzt, um Integrale zu berechnen und nützliche Identitäten nachzuweisen. Den Abschluss bilden der Transformationssatz und Koordinatentransformationen, mit denen sich komplizierte Integrale auf einfachere zurückführen lassen. Damit lässt sich beispielsweise die als [Basler Problem](https://de.wikipedia.org/wiki/Basler_Problem) bekannte Identität
 
-$$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$$
+$$\sum_{n=1}^{+\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$$
 
 beweisen.
 

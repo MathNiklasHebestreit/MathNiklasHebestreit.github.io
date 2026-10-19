@@ -32,7 +32,7 @@ I studied mathematics with a minor subject at [Martin Luther University Halle-Wi
 After my doctorate I moved into industry. From 2020 to 2023 I worked as a Software Developer in Robotic Process Automation (RPA) at [ComTS Finance Halle (Saale)](https://www.comts.de/finance/halle-saale).
 Since August 2023 I have been working as a Software Developer at [Research Industrial Systems Engineering (RISE)](https://www.rise-world.com/de/). 
 
-Teaching has always been a passion of mine. It began during my studies, when I worked as a tutor and led exercise classes, and seeing students' faces light up when something finally clicks has stayed with me ever since. This passion led me to write several exercise and study books for university students, with more already in the works. You can find them all on my [books page](/books/).
+Teaching has always been a passion of mine. It began during my studies, when I worked as a tutor and led exercise classes, and seeing students' faces light up when something finally clicks has stayed with me ever since. This passion led me to write several exercise and study books for university students, with more already in the works. You can find them all on my [books page](/projects/).
 
 <style>
   @media (min-width: 576px) {

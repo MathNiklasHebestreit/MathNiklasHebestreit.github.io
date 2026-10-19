@@ -25,7 +25,7 @@ An introduction to the art of mathematical problem solving. Working through prob
 
 ### Software Obfuscation and Deobfuscation with Mixed Boolean-Arithmetic Expressions
 
-_University of Tübingen · Summer semester 2026_
+_University of Tübingen · Summer semester 2026 · Lecture with exercise classes_
 
 Mixed Boolean-arithmetic (MBA) expressions combine Boolean and arithmetic operations and play a central role in protecting software against reverse engineering, as well as in breaking such protections. This course gives a rigorous, self-contained mathematical introduction to MBA expressions and their use in obfuscation and deobfuscation, with full proofs and carefully chosen examples that highlight both the strengths and the limitations of current techniques.
 
@@ -33,21 +33,21 @@ Mixed Boolean-arithmetic (MBA) expressions combine Boolean and arithmetic operat
 
 ### Mathematical Foundations of Cryptography
 
-_University of Tübingen · Winter semester 2025/26_
+_University of Tübingen · Winter semester 2025/26 · Lecture with exercise classes_
 
 An introduction to the mathematics behind modern cryptography, from historical ciphers to the public-key methods used today, together with the necessary algebra and computational number theory.
 
 **Topics:** division with remainder, primes, greatest common divisors and the extended Euclidean algorithm, congruences and the Chinese remainder theorem, groups, cyclic groups and Euler’s totient function, classical ciphers and their cryptanalysis (Caesar, substitution and Vigenère ciphers, Kasiski and Friedman tests), the Diffie–Hellman key exchange and man-in-the-middle attacks, fast exponentiation, the discrete logarithm problem (baby-step giant-step, Pollard’s ρ method), RSA including attacks and parameter choices following the recommendations of the German Federal Office for Information Security (BSI), and digital signatures.
 
-### Mathematische Grundlagen der Kryptographie
+### Mathematical Foundations of Cryptography
 
-_Martin Luther University Halle-Wittenberg · 2025 · Taught in German_
+_Martin Luther University Halle-Wittenberg · 2025 · Lecture with exercise classes_
 
-A German-language course on the mathematical foundations of cryptography, covering number theory and algebra, classical encryption methods, the Diffie–Hellman key exchange, discrete logarithms and the RSA cryptosystem.
+A course on the mathematical foundations of cryptography, covering number theory and algebra, classical encryption methods, the Diffie–Hellman key exchange, discrete logarithms and the RSA cryptosystem.
 
 ### Nonlinear Analysis: Fixed Point and Variational Methods
 
-_Martin Luther University Halle-Wittenberg · Summer semester 2024 · Taught in German_
+_Martin Luther University Halle-Wittenberg · Summer semester 2024 · Lecture with exercise classes_
 
 A course closely related to my doctoral research. It shows how many problems in analysis, such as nonlinear equations, initial and boundary value problems, equilibrium problems and obstacle problems, can be reformulated as fixed point problems or variational inequalities, and develops the tools to solve them.
 

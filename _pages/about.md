@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>math [dot] niklas [dot] hebestreit [at] gmail [dot] com</p>
+    <p>math[dot]niklas[dot]hebestreit[at]gmail[dot]com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -37,7 +37,7 @@ Teaching has always been a passion of mine. It began during my studies, when I w
 <style>
   @media (min-width: 576px) {
     .profile {
-      width: 22%;
+      width: 37%;
     }
   }
 </style>

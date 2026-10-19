@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>math[dot]niklas[dot]hebestreit[at]gmail[dot]com</p>
+    <p style="font-size: 0.75rem; overflow-wrap: anywhere;">math[dot]niklas[dot]hebestreit[at]gmail[dot]com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

@@ -11,7 +11,7 @@ Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datens
 
 Dr. Niklas Hebestreit-Düsing<br>
 Hinrichsenstr. 35<br>
-PLZ Leipzig<br>
+04105 Leipzig<br>
 E-Mail: math[dot]niklas[dot]hebestreit[at]gmail[dot]com
 
 ## 2. Allgemeines

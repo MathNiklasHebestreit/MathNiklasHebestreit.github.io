@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Leipzig, Germany</p>
     <p>math [dot] niklas [dot] hebestreit [at] gmail [dot] com</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"

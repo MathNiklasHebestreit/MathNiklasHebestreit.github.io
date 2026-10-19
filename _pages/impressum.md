@@ -11,4 +11,4 @@ Dr. Niklas Hebestreit-Düsing
 Hinrichsenstr. 35
 04105 Leipzig
 
-E-Mail: math.niklas.hebestreit@gmail.com
+E-Mail: math[dot]niklas[dot]hebestreit[at]gmail[dot]com
